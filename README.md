@@ -8,8 +8,8 @@ SI2300-TPMSCT-ND Mosfet\
 13-RC2010FK-0710KLCT-ND 10 K ohm Surface Mount Resistor\
 497-6588-1-ND 40 volt 5 amp diode
 ## Schematics/Documentation
-![Alt text](MDWiring.PNG)
 ![Alt text](MDSchematic.PNG)
+![Alt text](MDWiring.PNG)
 ![Alt text](MDAssembled.jpg)
 
 
