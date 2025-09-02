@@ -9,6 +9,9 @@ SI2300-TPMSCT-ND Mosfet\
 497-6588-1-ND 40 volt 5 amp diode
 ## Schematics/Documentation
 ![Alt text](MDWiring.PNG)
+![Alt text](MDSchematic.PNG)
+![Alt text](MDAssembled.jpg)
+
 
 
 
